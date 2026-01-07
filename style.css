@@ -1,1 +1,15 @@
+body {
+  background: #f3efe6;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+#board {
+  width: 480px;
+  margin: 20px auto;
+}
 
